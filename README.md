@@ -249,13 +249,12 @@ Persistent context memory inspired by epigenetic regulation.
 
 ## 仓库内容 / Repository Contents
 
-当前仓库包含三份核心文档，分别服务于不同发布场景：
+当前仓库包含两份核心主体文档，并附带引用与许可证文件，分别服务于不同发布场景：
 
-This repository currently contains three core documents designed for different release scenarios:
+This repository currently contains two core documents, along with citation and license files, designed for different release scenarios:
 
 - [README.md](/D:/README.md)：GitHub首页版本 / the GitHub homepage version
 - [DNA-Double-Helix-Academic.md](/D:/DNA-Double-Helix-Academic.md)：学术平台发布版本 / the academic-platform version
-- [README-Structure-Comparison.md](/D:/README-Structure-Comparison.md)：高星项目结构对比说明 / the structure-comparison note against high-star projects
 
 当前仓库已经补充封面视觉、双语引用说明与明确许可证，适合直接用于 GitHub 首页展示、研究介绍页或概念型项目发布。
 
